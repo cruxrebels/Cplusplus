@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\programming\cplusplusconcepts\insertionsort\insertionsort\source.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  InsertionSort.vcxproj -> D:\Programming\CplusplusConcepts\InsertionSort\Debug\InsertionSort.exe
+  InsertionSort.vcxproj -> D:\Programming\CplusplusConcepts\InsertionSort\Debug\InsertionSort.pdb (Partial PDB)
